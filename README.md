@@ -6,7 +6,29 @@
 <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a><br>
 This is a Advance Face Recognition Student Attendance System Project in Python OpenCV With Tkinter GUI & Mysql Database.
 
+## Goal of this Project
+
+* To build a applicaton which is capable to manage attendence in various sectors.
+* Work in team using Agile methodology
+* Apply modern software enginnering methods
+* Use Github, vscode, Open CV like software or libraries
+
 ## 🛠 Technologies used
+
+## Git workflow
+
+Do not push directly to the master branch! You may cause conflicts with someone else' work, or even break the project.
+What should you do instead?
+
+```
+$ git checkout -b [name_of_your_new_branch]
+$ git commit -m "Your message"
+$ git push origin [name_of_your_branch]
+```
+This will create a new branch of the project (with your changes) which we can then merge with the master branch via GitHub after your code has been double-checked by another team member for any conflicts!
+[GitWorkflow](gitflow/gitflow-en.md)
+
+***
 
 ## ✔ Features
 
