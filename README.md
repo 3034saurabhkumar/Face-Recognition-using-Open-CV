@@ -10,10 +10,14 @@ This is a Advance Face Recognition Student Attendance System Project in Python O
 
 ## ✔ Features
 
-- [x] Level one, usual platform level
-- [x] Speed run at level two
-- [x] Boss fight at level three
-- [x] Possibility to save the progress of the game
+- [x] Loging Security System (Username&Password)
+- [x] Student management system (Save, Take Photo Samples, Update, Delete, Clear) 
+- [x] Train Photo Samples 
+- [x] Take Attendance with Face Detection 
+- [x] Attendance Report (Excel file & MySql database) 
+- [x] Developer Page
+- [x] Help Desk
+- [x] Exit System
 
 ## 🤔 How to use
 
