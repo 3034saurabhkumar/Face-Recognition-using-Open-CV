@@ -50,7 +50,7 @@ This will create a new branch of the project (with your changes) which we can th
     <td align="center"><a href="https://github.com/3034saurabhkumar"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47604137?s=60&v=4" width="100px;" alt=""/><br /><sub><b>Saurabh Kumar (Team Leader)</b></sub></a><br /><a href="https://github.com/atilara" title="Átila's Profile"></a></td>
     <td align="center"><a href="https://github.com/musharrafiqubal"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64920299?v=4" width="100px;" alt=""/><br /><sub><b>Musharraf Iqubal</b></sub></a><br /><a href="https://github.com/arthursca" title="Arthur's Profile"></a></td>
     <td align="center"><a href="https://github.com/noronha1612"><img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/56375499?s=400&u=b2e69ac18ca2159e016598a84d44c69a97bc4829&v=4" width="100px;" alt=""/><br /><sub><b>Md. Firdaush</b></sub></a><br /><a href="https://github.com/noronha1612" title="Gabriel's Profile"></a></td>
-    <td align="center"><a href="https://github.com/joaosuassuna"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/72047940?s=400&u=475524cc308c84dc2d5898f7fe70c11cabe74a49&v=4" width="100px;" alt=""/><br /><sub><b>Amit Kumar</b></sub></a><br /><a href="https://github.com/joaosuassuna" title="João's Profile"></a></td>
+    <td align="center"><a href="https://github.com/Amit8083"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82259977?v=4" width="100px;" alt=""/><br /><sub><b>Amit Kumar</b></sub></a><br /><a href="https://github.com/Amit8083" title="Amit's Profile"></a></td>
   </tr>
 </table>
 
