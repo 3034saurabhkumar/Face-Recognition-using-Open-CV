@@ -1,4 +1,4 @@
-# Face-Recognision-using-Open-CV
+# Face-Recognition-using-Open-CV
 <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://travis-ci.org/badges/badgerbadgerbadger"><img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://img.shields.io/badge/License-MIT-yellow"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square?style=flat-square" /></a>
