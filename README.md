@@ -1,7 +1,7 @@
 # Face-Recognisiion-using-Open-CV
 <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://travis-ci.org/badges/badgerbadgerbadger"><img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square?style=flat-square" /></a>
-  <a href="http://www.apache.org/licenses/LICENSE-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square?style=flat-square" /></a>
+  <a href="https://img.shields.io/badge/License-MIT-yellow"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://github.com/3034saurabhkumar/Learning-Camp"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
 <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a><br>
 This is a Advance Face Recognition Student Attendance System Project in Python OpenCV With Tkinter GUI & Mysql Database.
